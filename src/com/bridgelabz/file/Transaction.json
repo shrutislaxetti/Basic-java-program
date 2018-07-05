@@ -1,0 +1,26 @@
+[
+	{
+		"transactionType": "buy",
+		"customerName": "sh",
+		"sharesBouught": 2,
+		"stockSymbol": "gh",
+		"amount": 22.0,
+		"timestamp": "2018.06.14.19.33.46"
+	},
+	{
+		"transactionType": "buy",
+		"customerName": "gh",
+		"sharesBouught": 5,
+		"stockSymbol": "sh",
+		"amount": 76.0,
+		"timestamp": "2018.06.15.10.20.28"
+	},
+	{
+		"transactionType": "buy",
+		"customerName": "TATA",
+		"sharesBouught": 2,
+		"stockSymbol": "tata",
+		"amount": 0.0,
+		"timestamp": "2018.06.15.12.26.33"
+	}
+]

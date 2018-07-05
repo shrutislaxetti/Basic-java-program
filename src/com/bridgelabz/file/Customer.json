@@ -1,0 +1,12 @@
+[
+	{
+		"customerName": "Suhel",
+		"amount": 80000.0,
+		"numberOfShares": 2
+	},
+	{
+		"customerName": "shruti",
+		"amount": 3000.0,
+		"numberOfShares": 30
+	}
+]

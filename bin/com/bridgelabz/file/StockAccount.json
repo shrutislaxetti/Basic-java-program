@@ -1,0 +1,17 @@
+[
+	{
+		"stocksymbol": "TAtaSteel",
+		"numberOfShares": 20,
+		"sharePrice": 50000.0
+	},
+	{
+		"stocksymbol": "TATA",
+		"numberOfShares": 100,
+		"sharePrice": 10000.0
+	},
+	{
+		"stocksymbol": "Reliance",
+		"numberOfShares": 180,
+		"sharePrice": 100.0
+	}
+]
