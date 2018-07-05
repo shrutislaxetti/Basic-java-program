@@ -1,0 +1,21 @@
+{
+	"Stock1": [
+		{
+			"numberofShare": 40,
+			"stockNames": "s3",
+			"sharePrice": 4000
+		},
+		{
+			"numberofShare": 40,
+			"stockNames": "s3",
+			"sharePrice": 4000
+		}
+	],
+	"Stock2": [
+		{
+			"numberofShare": 40,
+			"stockNames": "s3",
+			"sharePrice": 4000
+		}
+	]
+}
